@@ -1,13 +1,16 @@
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="800" alt="Welcome Banner"/>
+</p>
+
 # 👋 Hi there, I'm Tharindu Dilhan Maduwantha
 
-I'm a **passionate full-stack & mobile developer** exploring web and software development.  
+I'm a **passionate Full-Stack & Mobile Developer** exploring web and software development.  
 Love creating interactive web apps 🌐 and mobile applications 📱.
-
-![Profile Banner](https://camo.githubusercontent.com/3b89f8eb12b6e23b6c2a497c4e9a3e75/68747470733a2f2f692e696d6775722e636f6d2f6e6f4a595a76622e676966)
 
 ---
 
-##  Currently Learning
+## 🌱 Currently Learning
 - Advanced **React.js** & **Node.js**
 - Cloud technologies (**AWS**, **Firebase**)
 - Data Structures & Algorithms
@@ -46,14 +49,23 @@ Love creating interactive web apps 🌐 and mobile applications 📱.
 ---
 
 ## 📊 GitHub Stats
-![Tharindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilhanmaduwantha5566&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dilhanmaduwantha5566&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dilhanmaduwantha5566&show_icons=true&theme=react" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilhanmaduwantha5566&layout=compact&theme=react" alt="Top Languages" />
+</p>
 
 ---
 
-##  Fun Facts
+## ⚡ Fun Facts
 - Coffee enthusiast ☕  
-- Always building cool web & mobile apps 🌐📱  
-- Lifelong learner 🚀
-- Love contributing to open-source 💻
+- Love building web & mobile apps 🌐📱  
+- Lifelong learner 🚀  
+- Open-source contributor 💻  
+
+---
+
+## 💌 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
