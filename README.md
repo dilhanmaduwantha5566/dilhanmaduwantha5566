@@ -1,6 +1,6 @@
-<!-- Animated Banner -->
+<!-- Tech-Oriented Animated Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="800" alt="Welcome Banner"/>
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="800" alt="Tech Banner"/>
 </p>
 
 # 👋 Hi there, I'm Tharindu Dilhan Maduwantha
